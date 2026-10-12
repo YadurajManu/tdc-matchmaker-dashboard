@@ -2,10 +2,6 @@
 
 Internal dashboard MVP for The Date Crew matchmakers, built by Yaduraj Singh.
 
-## Live Link
-
-https://tdc-matchmaker-dashboard-yaduraj.regal-leaf-3985.chatgpt.site
-
 ## Sample Login
 
 - Username: `yaduraj`
